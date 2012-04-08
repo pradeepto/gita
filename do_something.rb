@@ -17,6 +17,7 @@ end
 
 class OtherClass
   module SomeModule
+    puts self
   end
 end
 
