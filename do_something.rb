@@ -4,6 +4,7 @@ class SomeClass
   def foo
     puts "foo"
     puts "bar"
+    puts self
   end
 
   def bar
