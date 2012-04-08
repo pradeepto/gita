@@ -3,7 +3,8 @@ require 'json'
 class SomeClass
   def foo
     puts "foo"
-    puts "baz"
+    puts "bat"
+    puts "foobar" 
     puts self
   end
 
