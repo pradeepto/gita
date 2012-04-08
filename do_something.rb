@@ -23,3 +23,6 @@ end
 module TopModule
   puts self
 end
+
+SomeClass.new.foo
+SomeClass.new.to_s
