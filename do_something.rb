@@ -9,6 +9,10 @@ class SomeClass
   def bar
     puts "bar"
   end
+
+  def to_s
+    puts "this method stringifies everything."
+  end
 end
 
 class OtherClass
