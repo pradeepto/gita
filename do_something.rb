@@ -5,3 +5,8 @@ class SomeClass
     puts "foo"
   end
 end
+
+class OtherClass
+  module SomeModule
+  end
+end
