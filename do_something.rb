@@ -15,3 +15,7 @@ class OtherClass
   module SomeModule
   end
 end
+
+module TopModule
+  puts self
+end
